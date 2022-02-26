@@ -11,3 +11,7 @@ This is Two player Pong Game designed using Pygame and basic of Python.
 
 #To Run<br/>
 >> python main.py
+
+
+#Medium Blog Link:<br/>
+https://rbrishabh76.medium.com/pong-game-using-pygame-669508aa14b2
